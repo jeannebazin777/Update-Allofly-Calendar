@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Prix: 289€\nCompagnie: Nouvelair (BJ510)\nTrajet: Tunis > Paris\nLien: https://allofly.com/vols/dernieres-minutes/
+DTEND:20260104T090500Z
+LOCATION:Aéroport Tunis-Carthage (TUN)
+DTSTART:20260104T063000Z
+SUMMARY:✈️ Nouvelair : TUN > CDG (289€)
+UID:BJ510-04/01/2026-07H30@allofly
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prix: 289€\nCompagnie: Nouvelair (BJ510)\nTrajet: Tunis > Paris\nLien: https://allofly.com/vols/dernieres-minutes/
+DTEND:20260103T090500Z
+LOCATION:Aéroport Tunis-Carthage (TUN)
+DTSTART:20260103T063000Z
+SUMMARY:✈️ Nouvelair : TUN > Paris (289€)
+UID:BJ510-03/01/2026-07H30@allofly
+END:VEVENT
+END:VCALENDAR

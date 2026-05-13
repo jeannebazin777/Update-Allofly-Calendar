@@ -61,6 +61,14 @@ SUMMARY:✈️ Vol : CDG > DJE (370€)
 UID:Vol-04/07/2026-16H00@allofly
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Prix: 50€\nCompagnie: Transavia (TO8393)\nLien: https://allofly.com/vols/dernieres-minutes/
+DTEND:20260704T152500Z
+LOCATION:Aéroport Djerba-Zarzis (DJE)
+DTSTART:20260704T122500Z
+SUMMARY:🟢 Transavia : DJE > ORY (50€)
+UID:TO8393-04/07/2026-13H25@allofly
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Prix: 420€\nCompagnie: Nouvelair (BJ732)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260824T070000Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
@@ -91,6 +99,14 @@ LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
 DTSTART:20260611T130000Z
 SUMMARY:✈️ Nouvelair : CDG > DJE (195€)
 UID:BJ509-11/06/2026-15H00@allofly
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prix: 290€\nCompagnie: Transavia (TO8392)\nLien: https://allofly.com/vols/dernieres-minutes/
+DTEND:20260627T113500Z
+LOCATION:Aéroport Paris-Orly (ORY)
+DTSTART:20260627T084500Z
+SUMMARY:🟢 Transavia : ORY > DJE (290€)
+UID:TO8392-27/06/2026-10H45@allofly
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Prix: 390€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/

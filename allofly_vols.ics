@@ -125,11 +125,11 @@ SUMMARY:✈️ Nouvelair : CDG > DJE (300€)
 UID:BJ555-26/05/2026-16H00@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 229€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
+DESCRIPTION:Prix: 280€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260520T205000Z
 LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
 DTSTART:20260520T180000Z
-SUMMARY:✈️ Nouvelair : CDG > DJE (229€)
+SUMMARY:✈️ Nouvelair : CDG > DJE (280€)
 UID:BJ509-20/05/2026-20H00@allofly
 END:VEVENT
 BEGIN:VEVENT

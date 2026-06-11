@@ -359,9 +359,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Prix: 270€\nCompagnie: Nouvelair (BJ703)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260730T225000Z
-LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
+LOCATION:Aéroport Paris (PAR)
 DTSTART:20260730T200000Z
-SUMMARY:✈️ Nouvelair : CDG > DJE (270€)
+SUMMARY:✈️ Nouvelair : PAR > DJE (270€)
 UID:BJ703-30/07/2026-22H00@allofly
 END:VEVENT
 BEGIN:VEVENT

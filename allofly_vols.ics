@@ -269,14 +269,6 @@ SUMMARY:✈️ Nouvelair : DJE > CDG (420€)
 UID:BJ702-17/08/2026-17H30@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 30€\nCompagnie: Nouvelair (BJ748)\nLien: https://allofly.com/vols/dernieres-minutes/
-DTEND:20260712T131500Z
-LOCATION:Aéroport Djerba-Zarzis (DJE)
-DTSTART:20260712T101500Z
-SUMMARY:✈️ Nouvelair : DJE > CDG (30€)
-UID:BJ748-12/07/2026-11H15@allofly
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Prix: 155€\nCompagnie: Nouvelair (BJ703)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260810T232000Z
 LOCATION:Aéroport Paris-Charles de Gaulle (CDG)

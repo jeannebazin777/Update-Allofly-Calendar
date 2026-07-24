@@ -61,11 +61,11 @@ SUMMARY:✈️ Nouvelair : DJE > CDG (420€)
 UID:BJ554-18/08/2026-11H00@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 380€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
+DESCRIPTION:Prix: 335€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260822T194000Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
 DTSTART:20260822T161000Z
-SUMMARY:✈️ Vol : DJE > CDG (380€)
+SUMMARY:✈️ Vol : DJE > CDG (335€)
 UID:Vol-22/08/2026-17H10@allofly
 END:VEVENT
 BEGIN:VEVENT
@@ -117,11 +117,11 @@ SUMMARY:✈️ Nouvelair : DJE > CDG (70€)
 UID:BJ748-26/07/2026-11H15@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 400€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
+DESCRIPTION:Prix: 350€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260826T054500Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
 DTSTART:20260826T030000Z
-SUMMARY:✈️ Vol : DJE > CDG (400€)
+SUMMARY:✈️ Vol : DJE > CDG (350€)
 UID:Vol-26/08/2026-04H00@allofly
 END:VEVENT
 BEGIN:VEVENT
@@ -333,20 +333,20 @@ SUMMARY:✈️ Nouvelair : Paris > DJE (100€)
 UID:BJ509-22/08/2026-20H00@allofly
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Prix: 450€\nCompagnie: Nouvelair (BJ742)\nLien: https://allofly.com/vols/dernieres-minutes/
+DTEND:20260830T200000Z
+LOCATION:Aéroport Djerba-Zarzis (DJE)
+DTSTART:20260830T170000Z
+SUMMARY:✈️ Nouvelair : DJE > CDG (450€)
+UID:BJ742-30/08/2026-18H00@allofly
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Prix: 60€\nCompagnie: Nouvelair (BJ702)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260730T190000Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
 DTSTART:20260730T160000Z
 SUMMARY:✈️ Nouvelair : DJE > CDG (60€)
 UID:BJ702-30/07/2026-17H00@allofly
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prix: 450€\nCompagnie: Nouvelair (BJ508)\nLien: https://allofly.com/vols/dernieres-minutes/
-DTEND:20260828T190000Z
-LOCATION:Aéroport Djerba-Zarzis (DJE)
-DTSTART:20260828T160000Z
-SUMMARY:✈️ Nouvelair : DJE > CDG (450€)
-UID:BJ508-28/08/2026-17H00@allofly
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Prix: 180€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
@@ -413,11 +413,11 @@ SUMMARY:✈️ Nouvelair : PAR > DJE (165€)
 UID:BJ749-09/08/2026-16H15@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 360€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
+DESCRIPTION:Prix: 320€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260820T214500Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
 DTSTART:20260820T183000Z
-SUMMARY:✈️ Vol : DJE > CDG (360€)
+SUMMARY:✈️ Vol : DJE > CDG (320€)
 UID:Vol-20/08/2026-19H30@allofly
 END:VEVENT
 BEGIN:VEVENT
@@ -477,11 +477,11 @@ SUMMARY:✈️ Nouvelair : CDG > DJE (100€)
 UID:BJ703-26/08/2026-22H15@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 250€\nCompagnie: Nouvelair (BJ749)\nLien: https://allofly.com/vols/dernieres-minutes/
+DESCRIPTION:Prix: 259€\nCompagnie: Nouvelair (BJ749)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260802T170500Z
 LOCATION:Aéroport Paris (PAR)
 DTSTART:20260802T141500Z
-SUMMARY:✈️ Nouvelair : PAR > DJE (250€)
+SUMMARY:✈️ Nouvelair : PAR > DJE (259€)
 UID:BJ749-02/08/2026-16H15@allofly
 END:VEVENT
 BEGIN:VEVENT
@@ -701,19 +701,11 @@ SUMMARY:✈️ Nouvelair : DJE > CDG (420€)
 UID:BJ508-19/08/2026-15H05@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 245€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
-DTEND:20260729T205000Z
-LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
-DTSTART:20260729T180000Z
-SUMMARY:✈️ Nouvelair : CDG > DJE (245€)
-UID:BJ509-29/07/2026-20H00@allofly
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prix: 430€\nCompagnie: Nouvelair (BJ508)\nLien: https://allofly.com/vols/dernieres-minutes/
+DESCRIPTION:Prix: 360€\nCompagnie: Nouvelair (BJ508)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260820T120000Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
 DTSTART:20260820T090000Z
-SUMMARY:✈️ Nouvelair : DJE > CDG (430€)
+SUMMARY:✈️ Nouvelair : DJE > CDG (360€)
 UID:BJ508-20/08/2026-10H00@allofly
 END:VEVENT
 BEGIN:VEVENT

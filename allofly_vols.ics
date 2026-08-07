@@ -29,14 +29,6 @@ SUMMARY:✈️ Nouvelair : CDG > DJE (100€)
 UID:BJ749-30/08/2026-16H15@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 270€\nCompagnie: Nouvelair (BJ702)\nLien: https://allofly.com/vols/dernieres-minutes/
-DTEND:20260810T193000Z
-LOCATION:Aéroport Djerba-Zarzis (DJE)
-DTSTART:20260810T163000Z
-SUMMARY:✈️ Nouvelair : DJE > CDG (270€)
-UID:BJ702-10/08/2026-17H30@allofly
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Prix: 130€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260814T205000Z
 LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
@@ -133,11 +125,11 @@ SUMMARY:✈️ Nouvelair : DJE > CDG (390€)
 UID:BJ732-31/08/2026-09H00@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 330€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
+DESCRIPTION:Prix: 350€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260822T194000Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
 DTSTART:20260822T161000Z
-SUMMARY:✈️ Vol : DJE > CDG (330€)
+SUMMARY:✈️ Vol : DJE > CDG (350€)
 UID:Vol-22/08/2026-17H10@allofly
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +381,11 @@ SUMMARY:✈️ Nouvelair : CDG > DJE (100€)
 UID:BJ509-23/08/2026-20H00@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 175€\nCompagnie: Nouvelair (BJ554)\nLien: https://allofly.com/vols/dernieres-minutes/
+DESCRIPTION:Prix: 250€\nCompagnie: Nouvelair (BJ554)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260811T130000Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
 DTSTART:20260811T100000Z
-SUMMARY:✈️ Nouvelair : DJE > CDG (175€)
+SUMMARY:✈️ Nouvelair : DJE > CDG (250€)
 UID:BJ554-11/08/2026-11H00@allofly
 END:VEVENT
 BEGIN:VEVENT
@@ -437,11 +429,11 @@ SUMMARY:✈️ Nouvelair : CDG > DJE (145€)
 UID:BJ703-10/08/2026-22H30@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 320€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
+DESCRIPTION:Prix: 300€\nCompagnie: Vol (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260820T214500Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
 DTSTART:20260820T183000Z
-SUMMARY:✈️ Vol : DJE > CDG (320€)
+SUMMARY:✈️ Vol : DJE > CDG (300€)
 UID:Vol-20/08/2026-19H30@allofly
 END:VEVENT
 BEGIN:VEVENT

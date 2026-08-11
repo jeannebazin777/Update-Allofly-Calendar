@@ -63,9 +63,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Prix: 100€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260828T225000Z
-LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
+LOCATION:Aéroport Paris (PAR)
 DTSTART:20260828T200000Z
-SUMMARY:✈️ Nouvelair : CDG > DJE (100€)
+SUMMARY:✈️ Nouvelair : PAR > DJE (100€)
 UID:BJ509-28/08/2026-22H00@allofly
 END:VEVENT
 BEGIN:VEVENT

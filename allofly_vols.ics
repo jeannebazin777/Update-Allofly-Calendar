@@ -237,14 +237,6 @@ SUMMARY:✈️ Nouvelair : CDG > DJE (100€)
 UID:BJ749-23/08/2026-16H15@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 100€\nCompagnie: Nouvelair (BJ703)\nLien: https://allofly.com/vols/dernieres-minutes/
-DTEND:20260819T230500Z
-LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
-DTSTART:20260819T201500Z
-SUMMARY:✈️ Nouvelair : CDG > DJE (100€)
-UID:BJ703-19/08/2026-22H15@allofly
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Prix: 159€\nCompagnie: Nouvelair (BJ749)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260830T170500Z
 LOCATION:Aéroport Paris-Charles de Gaulle (CDG)

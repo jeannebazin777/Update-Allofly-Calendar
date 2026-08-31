@@ -5,28 +5,20 @@ X-PUBLISHED-TTL:PT240M
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Prix: 185€\nCompagnie: Nouvelair (BJ703)\nLien: https://allofly.com/vols/dernieres-minutes/
-DTEND:20260917T225000Z
-LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
-DTSTART:20260917T200000Z
-SUMMARY:✈️ Nouvelair : CDG > DJE (185€)
-UID:BJ703-17/09/2026-22H00@allofly
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prix: 100€\nCompagnie: Nouvelair (BJ703)\nLien: https://allofly.com/vols/dernieres-minutes/
-DTEND:20260831T232000Z
-LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
-DTSTART:20260831T203000Z
-SUMMARY:✈️ Nouvelair : CDG > DJE (100€)
-UID:BJ703-31/08/2026-22H30@allofly
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Prix: 350€\nCompagnie: Nouvelair (BJ702)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260903T190000Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
 DTSTART:20260903T160000Z
 SUMMARY:✈️ Nouvelair : DJE > Paris (350€)
 UID:BJ702-03/09/2026-17H00@allofly
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prix: 185€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
+DTEND:20260917T155000Z
+LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
+DTSTART:20260917T130000Z
+SUMMARY:✈️ Nouvelair : CDG > DJE (185€)
+UID:BJ509-17/09/2026-15H00@allofly
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Prix: 280€\nCompagnie: Nouvelair (BJ702)\nLien: https://allofly.com/vols/dernieres-minutes/
@@ -37,11 +29,11 @@ SUMMARY:✈️ Nouvelair : DJE > Paris (280€)
 UID:BJ702-07/09/2026-17H30@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 185€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
-DTEND:20260917T155000Z
+DESCRIPTION:Prix: 185€\nCompagnie: Nouvelair (BJ703)\nLien: https://allofly.com/vols/dernieres-minutes/
+DTEND:20260917T225000Z
 LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
-DTSTART:20260917T130000Z
+DTSTART:20260917T200000Z
 SUMMARY:✈️ Nouvelair : CDG > DJE (185€)
-UID:BJ509-17/09/2026-15H00@allofly
+UID:BJ703-17/09/2026-22H00@allofly
 END:VEVENT
 END:VCALENDAR

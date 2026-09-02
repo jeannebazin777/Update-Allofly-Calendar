@@ -5,6 +5,14 @@ X-PUBLISHED-TTL:PT240M
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Prix: 170€\nCompagnie: Nouvelair (BJ508)\nLien: https://allofly.com/vols/dernieres-minutes/
+DTEND:20260907T170000Z
+LOCATION:Aéroport Djerba-Zarzis (DJE)
+DTSTART:20260907T140000Z
+SUMMARY:✈️ Nouvelair : DJE > Paris (170€)
+UID:BJ508-07/09/2026-15H00@allofly
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Prix: 185€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260917T155000Z
 LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
@@ -13,11 +21,11 @@ SUMMARY:✈️ Nouvelair : CDG > DJE (185€)
 UID:BJ509-17/09/2026-15H00@allofly
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Prix: 280€\nCompagnie: Nouvelair (BJ702)\nLien: https://allofly.com/vols/dernieres-minutes/
+DESCRIPTION:Prix: 180€\nCompagnie: Nouvelair (BJ702)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260907T193000Z
 LOCATION:Aéroport Djerba-Zarzis (DJE)
 DTSTART:20260907T163000Z
-SUMMARY:✈️ Nouvelair : DJE > Paris (280€)
+SUMMARY:✈️ Nouvelair : DJE > Paris (180€)
 UID:BJ702-07/09/2026-17H30@allofly
 END:VEVENT
 BEGIN:VEVENT

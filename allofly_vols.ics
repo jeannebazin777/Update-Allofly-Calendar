@@ -5,14 +5,6 @@ X-PUBLISHED-TTL:PT240M
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Prix: 275€\nCompagnie: Nouvelair (BJ748)\nLien: https://allofly.com/vols/dernieres-minutes/
-DTEND:20260906T131500Z
-LOCATION:Aéroport Djerba-Zarzis (DJE)
-DTSTART:20260906T101500Z
-SUMMARY:✈️ Nouvelair : DJE > CDG (275€)
-UID:BJ748-06/09/2026-11H15@allofly
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Prix: 185€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
 DTEND:20260917T155000Z
 LOCATION:Aéroport Paris-Charles de Gaulle (CDG)

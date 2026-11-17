@@ -4,12 +4,4 @@ X-WR-CALDESC:Mise à jour automatique des meilleurs prix Paris-Djerba
 X-PUBLISHED-TTL:PT240M
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:Prix: 190€\nCompagnie: Nouvelair (BJ509)\nLien: https://allofly.com/vols/dernieres-minutes/
-DTEND:20261119T135000Z
-LOCATION:Aéroport Paris-Charles de Gaulle (CDG)
-DTSTART:20261119T110000Z
-SUMMARY:✈️ Nouvelair : CDG > DJE (190€)
-UID:BJ509-19/11/2026-12H00@allofly
-END:VEVENT
 END:VCALENDAR

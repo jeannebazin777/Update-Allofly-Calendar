@@ -4,4 +4,12 @@ X-WR-CALDESC:Mise à jour automatique des meilleurs prix Paris-Djerba
 X-PUBLISHED-TTL:PT240M
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Prix: 125€\nCompagnie: Transavia (Vol)\nLien: https://allofly.com/vols/dernieres-minutes/
+DTEND:20261203T090500Z
+LOCATION:Aéroport Paris-Orly (ORY)
+DTSTART:20261203T061000Z
+SUMMARY:🟢 Transavia : ORY > DJE (125€)
+UID:Vol-03/12/2026-07H10@allofly
+END:VEVENT
 END:VCALENDAR
